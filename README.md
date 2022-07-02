@@ -10,4 +10,3 @@ junior flutter developer and junior programer👋
 - 😄 Pronouns:... 
 - ⚡ Fun fact: ...**Time is actually limited**
 
-![ehsan,s GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsan-developer&theme=dark&show_icons=true)
