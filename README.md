@@ -2,7 +2,7 @@
 junior flutter developer and junior programer👋
 
 - 🔭 I’m currently working on flutter/programing.
-- 🌱 I’m currently learning flutter-development,c++ .
+- 🌱 I’m currently learning flutter-development,c++,java,kotlin.
 - 👯 I’m looking to collaborate on open source.
 - 🤔 I’m looking for help with android development.
 - 💬 Ask me about soft skills 
