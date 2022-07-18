@@ -1,5 +1,5 @@
-### Hi there  I,m ehsan.
-junior flutter developer and junior programer👋
+###                   Hi I,m ehsan.
+junior flutter developer and self-taught programer👋
 
 - 🔭 I’m currently working on flutter/programing.
 - 🌱 I’m currently learning flutter-development,c++,java,kotlin.
@@ -8,5 +8,5 @@ junior flutter developer and junior programer👋
 - 💬 Ask me about soft skills 
 - 📫 How to reach me: ...[facebook](www.facebook.com/ehsaanyaqob),[linkden](https://www.linkedin.com/in/ehsaan-yaqoob-86917622b/)
 - 😄 Pronouns:... 
-- ⚡ Fun fact: ...**Time is actually limited**
+- ⚡ Fun fact: ...****
 
