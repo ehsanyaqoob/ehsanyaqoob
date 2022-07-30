@@ -10,5 +10,3 @@ junior flutter developer and self-taught programer👋
 - 😄 Pronouns:... 
 - ⚡ Fun fact: ...***
 
- https://github.com/ehsanyaqoob/ehsanyaqoob/github-readme-stats#adding-private-contributions-count-to-total-commits-count
-
