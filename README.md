@@ -1,6 +1,5 @@
 ### Hi there 👋, I am ehsan 
 #### flutter developer ,programmer
-![flutter developer ,programmer](https://avatars.githubusercontent.com/u/97935737?v=4)
 
 I doing work on flutter and learning about Android and IOS development
 
