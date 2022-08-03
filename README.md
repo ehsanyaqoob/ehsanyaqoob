@@ -18,7 +18,7 @@ Skills: Flutter /Dart /Kotlin / C++/Java
 
 [![ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehsanyaqoob)](https://github.com/ehsanyaqoob/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanyaqoob)](https://github.com/ehsanyaqoob/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanyaqoob&layout=compact)](https://github.com/ehsanyaqoob/github-readme-stats)
 
 
 
