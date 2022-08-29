@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsanyaqoob" alt="ehsanyaqoob" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/mnmehsan" target="blank"><img src="https://img.shields.io/twitter/follow/mnmehsan?logo=twitter&style=for-the-badge" alt="mnmehsan" /></a> </p>
+
 - 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Android +IOS development**
@@ -26,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mnmehsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mnmehsan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ehsan-yaqoob-86917622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ehsan-yaqoob-86917622b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ehsan-yaqoob-86917622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ehsan-yaqoob-86917622b/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18118910/ehsan-yaqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18118910/ehsan-yaqoob" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ehsaanyaqob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ehsaanyaqob" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/yaar_ehsaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yaar_ehsaan/" height="30" width="40" /></a>
