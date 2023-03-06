@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Open Sources**
 
-- 👨‍💻 All of my projects are available at [https://znap.link/techyflo](https://znap.link/techyflo)
+- 👨‍💻 All of my projects are available at [(https://zaap.bio/ehsanyie)]((https://zaap.bio/ehsanyie))
 
 - 📝 I regularly write articles on [https://ehsanyaqoob.substack.com/](https://ehsanyaqoob.substack.com/)
 
