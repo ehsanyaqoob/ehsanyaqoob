@@ -5,11 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsanyaqoob" alt="ehsanyaqoob" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/i_ehsanyie" target="blank"><img src="https://img.shields.io/twitter/follow/i_ehsanyie?logo=twitter&style=for-the-badge" alt="i_ehsanyie" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/Yaarehsan" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Yaarehsan?logo=twitter&style=for-the-badge" alt="Yaarehsan" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **IOS, Swift, Objective C, Java**
+- 🌱 I’m currently learning **IOS, Swift, Objective C, and Java**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
