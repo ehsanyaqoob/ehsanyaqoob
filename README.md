@@ -1,47 +1,72 @@
-<h1 align="center">Hi 👋, I'm ehsan</h1>
-<h3 align="center">A Skilled Flutter Developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Ehsan</h1>
+<h3 align="center">🚀 Skilled Flutter, Android, and iOS Developer | Innovating Mobile Solutions 🌍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsanyaqoob&label=Profile%20views&color=0e75b6&style=flat" alt="ehsanyaqoob" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehsanyaqoob" alt="ehsanyaqoob" /></a> </p>
-
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehsanyaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/Yaarehsan" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Yaarehsan?logo=twitter&style=for-the-badge" alt="Yaarehsan" />
+    <img src="https://img.shields.io/twitter/follow/Yaarehsan?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
   </a>
 </p>
 
+---
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 **Currently Building:** Cutting-edge **Flutter Apps**  
+- 🌱 **Learning:** Advanced **iOS (Swift, Objective-C)** and **Android (Java)**  
+- 👯 **Collaborating on:** Open Source Mobile Projects  
+- 🤝 **Seeking Expertise in:** iOS Development  
+- 👨‍💻 🌐 Portfolio: Coming soon. Stay tuned! 
+- 📝 **Writings:** [Substack Articles](https://ehsanyaqoob.substack.com)  
+- 💬 **Ask Me About:** **Flutter, Android, iOS**  
+- 📫 **Reach Me At:** ehsanyaqoob07@gmail.com  
+- ⚡ **Fun Fact:** Always exploring **new tech trends**!
 
-- 🌱 I’m currently learning **IOS, Swift, Objective C, and Java**
+---
 
-- 👯 I’m looking to collaborate on **Open Source projects**
-
-- 🤝 I’m looking for help with **IOS App Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ehsanyaqoob](https://github.com/ehsanyaqoob)
-
-- 📝 I regularly write articles on [https://ehsanyaqoob.substack.com/](https://ehsanyaqoob.substack.com/)
-
-- 💬 Ask me about **Flutter Apps, IOS Apps, Swift**
-
-- 📫 How to reach me **ehsanyaqoob07@gmail.com, LinkedIn**
-
-- ⚡ Fun fact **Nothing**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_ehsanyie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_ehsanyie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ehsany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehsany" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ehsanyaqoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ehsanyaqoob" height="30" width="40" /></a>
+<h3 align="center">🌐 Let's Connect</h3>
+<p align="center">
+  <a href="https://twitter.com/Yaarehsan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/ehsany" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ehsanyaqoob" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsanyaqoob&show_icons=true&locale=en&layout=compact" alt="ehsanyaqoob" /></p>
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
+  </a>
+  <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://figma.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsanyaqoob&show_icons=true&locale=en" alt="ehsanyaqoob" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanyaqoob&" alt="ehsanyaqoob" /></p>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsanyaqoob&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanyaqoob&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsanyaqoob&layout=compact&theme=radical" alt="Top Languages" />
+</p>
