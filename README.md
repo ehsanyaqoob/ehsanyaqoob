@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
-<h3 align="center">🚀 App Developer |Flutter/Android/iOS Developer — Crafting Seamless Mobile Experiences</h3>
+<h3 align="center">🚀 App Developer |Flutter/Android/iOS  — Crafting Seamless Mobile Experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ehsanyaqoob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
