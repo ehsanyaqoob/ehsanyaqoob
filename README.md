@@ -17,11 +17,10 @@
 <h2 align="start">💼 About Me</h2>
 
 <ul>
-  <li>🧠 Flutter-first developer focused on scalable mobile architecture</li>
-  <li>✨ UI/UX perfectionist – clean interfaces & fluid experiences</li>
-  <li>🔥 Currently exploring native iOS (Swift) and animations</li>
-  <li>🛠 Working with Firebase, REST APIs, state management (GetX, Riverpod)</li>
-  <li>📝 I write about mobile dev on <a href="https://ehsanyaqoob.substack.com">Substack</a></li>
+  <li>🔭 I’m currently working on Flutter-based performance-driven apps</li>
+  <li>🌱 I’m currently learning native iOS (Swift) and animation techniques</li>
+  <li>💬 Ask me about Flutter, Dart, Firebase, GetX, REST APIs</li>
+  <li>📫 Reach me at: <strong>ehsanyaqoob07@gmail.com</strong></li>
 </ul>
 
 ---
