@@ -1,34 +1,32 @@
-<h1 align="center">Hey 👋 I'm Ehsan</h1>
+<p align="start">👋 Hi, I'm Ehsan Yaqoob (he/him)n</p>
 
-<p align="center">
-🚀 App Developer | Flutter Expert focused on performance & clean UI  
-<br>
-📱 Building sleek cross-platform apps with Flutter  
-<br>
-🎯 Passionate about minimal design, smooth animations & real-world impact  
+<p align="start">
+🚀 App Developer | Flutter Expert focused on performance & clean UI <br/>
+📱 Building sleek cross-platform apps with Flutter <br/>
+🎯 Passionate about minimal design, smooth animations & real-world impact
 </p>
 
-<p align="center">
-🏢 Currently building at: <strong>NPF ->Islamabad </strong>  
-<br>
-🌍 Based in Islamabad, Pakistan | UTC+05:00  
-<br>
+<p align="start">
+🏢 Currently building at: <strong>NPF -> Islamabad</strong> <br/>
+🌍 Based in Islamabad, Pakistan | UTC+05:00 <br/>
 📬 Reach me at: <strong>ehsanyaqoob07@gmail.com</strong>
 </p>
 
 ---
 
-## 💼 About Me
+<h2 align="start">💼 About Me</h2>
 
-- 🧠 Flutter-first developer focused on scalable mobile architecture
-- ✨ UI/UX perfectionist – clean interfaces & fluid experiences
-- 🔥 Currently exploring native iOS (Swift) and animations
-- 🛠 Working with Firebase, REST APIs, state management (GetX, Riverpod)
-- 📝 I write about mobile dev on [Substack](https://ehsanyaqoob.substack.com)
+<ul>
+  <li>🧠 Flutter-first developer focused on scalable mobile architecture</li>
+  <li>✨ UI/UX perfectionist – clean interfaces & fluid experiences</li>
+  <li>🔥 Currently exploring native iOS (Swift) and animations</li>
+  <li>🛠 Working with Firebase, REST APIs, state management (GetX, Riverpod)</li>
+  <li>📝 I write about mobile dev on <a href="https://ehsanyaqoob.substack.com">Substack</a></li>
+</ul>
 
 ---
 
-## 🛠 Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -42,25 +40,29 @@
 
 ---
 
-## 📱 Featured Projects
+<h2 align="center">📱 Featured Projects</h2>
 
-### 🔹 [Digital Sergeant App](https://github.com/ehsanyaqoob/Digital-Sergeant-App)
-> Smart enforcement system for Islamabad Traffic Police  
-> `Flutter`, `GetX`, `Camera`, `ML Kit`, `Firebase`
+<p align="center">
+  <a href="https://github.com/ehsanyaqoob/Digital-Sergeant-App"><b>🔹 Digital Sergeant App</b></a><br/>
+  <i>Smart enforcement system for Islamabad Traffic Police</i><br/>
+  <code>Flutter</code> <code>GetX</code> <code>Camera</code> <code>ML Kit</code> <code>Firebase</code>
+</p>
 
-### 🔹 [Spark - Flutter UI Kit](https://github.com/ehsanyaqoob/Spark)
-> Scalable & reusable Flutter UI Kit with beautiful, clean layouts  
-> `Dark/Light Mode`, `Component Architecture`, `Custom Widgets`
+<p align="center">
+  <a href="https://github.com/ehsanyaqoob/Spark"><b>🔹 Spark - Flutter UI Kit</b></a><br/>
+  <i>Scalable & reusable Flutter UI Kit with beautiful, clean layouts</i><br/>
+  <code>Dark/Light Mode</code> <code>Component Architecture</code> <code>Custom Widgets</code>
+</p>
 
-> ⭐ *If you like these projects, don’t forget to leave a star. It means a lot!*
+<p align="center"><b>⭐ If you like these projects, don’t forget to leave a star. It means a lot!</b></p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsanyaqoob&show_icons=true&theme=swift&hide_title=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanyaqoob&theme=swift" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ehsanyaqoob&show_icons=true&theme=swift&hide_title=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanyaqoob&theme=swift" width="48%" />
 </p>
 
 <p align="center">
@@ -69,13 +71,21 @@
 
 ---
 
-## 🤝 Let’s Connect
+<h2 align="center">🤝 Let’s Connect</h2>
 
 <p align="center">
-  <a href="mailto:ehsanyaqoob07@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ehsany"><img src="https://img.shields.io/badge/LinkedIn-ehsany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Yaarehsan"><img src="https://img.shields.io/badge/Twitter-@Yaarehsan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://ehsanyaqoob.substack.com"><img src="https://img.shields.io/badge/Blog-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
+  <a href="mailto:ehsanyaqoob07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ehsany">
+    <img src="https://img.shields.io/badge/LinkedIn-ehsany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Yaarehsan">
+    <img src="https://img.shields.io/badge/Twitter-@Yaarehsan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://ehsanyaqoob.substack.com">
+    <img src="https://img.shields.io/badge/Blog-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
+  </a>
 </p>
 
 ---
