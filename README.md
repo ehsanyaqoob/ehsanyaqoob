@@ -98,22 +98,8 @@ When I’m not coding, you’ll find me:
 
 ---
 
-## 🤝 Let’s Connect  
-
-<p align="center">
-  <a href="mailto:ehsanyaqoob07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ehsany">
-    <img src="https://img.shields.io/badge/LinkedIn-ehsany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Yaarehsan">
-    <img src="https://img.shields.io/badge/Twitter-@Yaarehsan-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://ehsanyaqoob.substack.com">
-    <img src="https://img.shields.io/badge/Blog-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
-  </a>
-</p>  
+🤝 Let’s Connect
+<p align="center"> <a href="mailto:ehsanyaqoob07@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ehsany/"> <img src="https://img.shields.io/badge/LinkedIn-ehsany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/yaarehsan/"> <img src="https://img.shields.io/badge/Instagram-@yaarehsan-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://ehsanyaqoob.substack.com"> <img src="https://img.shields.io/badge/Blog-Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" /> </a> <a href="https://calendly.com/ehsanyaqoob/30min"> <img src="https://img.shields.io/badge/Meet-Book%20a%20Meeting-0A66C2?style=for-the-badge&logo=googlemeet&logoColor=white" /> </a> </p>
 
 ---
 
