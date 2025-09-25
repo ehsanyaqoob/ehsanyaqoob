@@ -84,16 +84,8 @@ Prioritizes **modern design**, **scalable components**, and a **smooth reservati
 
 ⭐ *If you like these projects, don’t forget to leave a star — it motivates me to build more!*  
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsanyaqoob&show_icons=true&theme=swift&hide_title=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanyaqoob&theme=swift" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanyaqoob&layout=compact&theme=swift" width="40%" />
-</p>  
+📊 GitHub Insights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ehsanyaqoob&show_icons=true&theme=swift&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ehsanyaqoob&theme=swift&hide_border=true" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanyaqoob&layout=compact&theme=swift&hide_border=true" width="38%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanyaqoob&theme=swift&hide_border=true&bg_color=ffffff&color=000000&line=007aff&point=007aff" width="90%" /> </p>
 
 ---
 
