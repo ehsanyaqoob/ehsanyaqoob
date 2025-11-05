@@ -71,7 +71,7 @@ Includes **dark/light themes**, **custom widgets**, and a **component-based desi
 
 ### 🚧 Coming Soon  
 
-#### 🔹 SwiftPay (Payment App)  
+#### 🔹[NextPay - Finance-Wallet Solution](https://github.com/ehsanyaqoob/nextpay) 
 A cross-platform **digital payment solution** with **secure transactions**, **API-based verification**, and **intuitive user flows**.  
 
 #### 🔹 Formify (E-Commerce App)  
