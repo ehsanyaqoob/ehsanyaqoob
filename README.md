@@ -31,7 +31,7 @@ Git • Postman • Figma (basics) • VS Code
 **🔹 Digital Sergeant App**  
 Smart enforcement system developed for **Islamabad Traffic Police**.  
 Built with **Flutter + GetX**, integrated **camera scanning**, **ML Kit OCR** for number plate detection, real-time violation reporting, and **Firebase** for data syncing.  
-→ [Repository](https://github.com/ehsanyaqoob/Digital-Sergeant-App)
+→ [Repository](https://github.com/ehsanyaqoob/ITP-App-)
 
 **🔹 Funica – Flutter UI Kit**  
 Reusable component library featuring modern layouts, dark/light themes, custom widgets, and clean architecture for rapid app prototyping.  
