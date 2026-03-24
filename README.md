@@ -15,7 +15,6 @@ My expertise includes end-to-end Flutter development — from beautiful user int
 Developing and maintaining internal production mobile applications, including real-time systems with camera integration, ML Kit OCR, and Firebase backend.
 
 ### 🛠 Tech Stack
-
 **💙 Mobile Development**  
 Flutter • Dart • Swift (in progress) • SwiftUI (in progress)
 
@@ -29,7 +28,6 @@ Firebase (Firestore, Authentication, Storage) • REST APIs • Custom Backend
 Git • Postman • Figma (basics) • VS Code
 
 ### 📱 Featured & Solo Projects
-
 **🔹 Digital Sergeant App**  
 Smart enforcement system developed for **Islamabad Traffic Police**.  
 Built with **Flutter + GetX**, integrated **camera scanning**, **ML Kit OCR** for number plate detection, real-time violation reporting, and **Firebase** for data syncing.  
@@ -44,7 +42,6 @@ Full-featured functional e-commerce application with product catalog, cart manag
 → [Repository](https://github.com/ehsanyaqoob/formify)
 
 ### 🌱 Currently Working On (Solo Projects)
-
 **🔹 Padel App**  
 A solid production-ready Flutter application with **custom backend** integration. Currently finalizing features and preparing for launch on Google Play Store soon.
 
