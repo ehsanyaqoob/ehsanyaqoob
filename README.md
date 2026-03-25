@@ -31,22 +31,20 @@ Git • Postman • Figma (basics) • VS Code
 **🔹 Digital Sergeant App**  
 Smart enforcement system developed for **Islamabad Traffic Police**.  
 Built with **Flutter + GetX**, integrated **camera scanning**, **ML Kit OCR** for number plate detection, real-time violation reporting, and **Firebase** for data syncing.  
-→ [Repository](https://github.com/ehsanyaqoob/ITP-App-)
+→ [Repository](https://github.com/ehsanyaqoob/Digital-Sergeant-Showcase)
 
 **🔹 Funica – Flutter UI Kit**  
 Reusable component library featuring modern layouts, dark/light themes, custom widgets, and clean architecture for rapid app prototyping.  
 → [Repository](https://github.com/ehsanyaqoob/funica)
 
-**🔹 Formify – E-commerce App**  
-Full-featured functional e-commerce application with product catalog, cart management, checkout flow, and advanced state management. Ready for real backend integration.  
-→ [Repository](https://github.com/ehsanyaqoob/formify)
-
 ### 🌱 Currently Working On (Solo Projects)
 **🔹 Padel App**  
 A solid production-ready Flutter application with **custom backend** integration. Currently finalizing features and preparing for launch on Google Play Store soon.
+→ [Repository](https://github.com/ehsanyaqoob/Padel---Showcase)
 
 **🔹 Dastarkhwan**  
 Native iOS application built with **Swift & SwiftUI**. Focused on premium UI/UX and Apple ecosystem best practices. Will be launched soon on the App Store.
+→ [Repository](https://github.com/ehsanyaqoob/dastarkhwan)
 
 **🔹 Fitness App**  
 Personal daily-usage fitness tracking application (Flutter). Includes detailed workout logging, progress tracking, animations, and local storage with plans to add backend sync in future versions.
