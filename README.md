@@ -1,7 +1,7 @@
 # Hello, I'm Ehsan Yaqoob 👋
 
 **Mobile Developer (iOS & Flutter)** based in Islamabad, Pakistan.
-3+ years designing, developing, and deploying production mobile 
+2+ years designing, developing, and deploying production mobile 
 applications - from government-grade enforcement systems to 
 independently shipped consumer products on the App Store and 
 Play Store.
