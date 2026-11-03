@@ -1,37 +1,13 @@
-# Ehsan Yaqoob
+<a href="https://ehsanyaqoob.com"><img src="assets/intro.svg" width="100%" alt="Hey, I'm Ehsan. I build native iPhone apps with Swift and SwiftUI, solo from architecture through App Review, and use Flutter when a product needs it. iOS Developer in Islamabad, Pakistan."></a>
 
-**Mobile Developer (iOS & Flutter)** · Islamabad, Pakistan
+<img src="assets/contact.svg" width="100%" alt="Contact">
 
-3+ years shipping production apps across native iOS and Flutter. Three are live on the App Store, and one is used by 500+ traffic police officers.
+<p><a href="mailto:ehsanyaqoob07@gmail.com"><img src="assets/contact-email.svg" width="33.2%" alt="Email: ehsanyaqoob07@gmail.com"></a><a href="https://www.linkedin.com/in/ehsany"><img src="assets/contact-linkedin.svg" width="33.2%" alt="LinkedIn: in/ehsany"></a><a href="https://x.com/iamehsanyaqoob"><img src="assets/contact-x.svg" width="33.2%" alt="X: @iamehsanyaqoob"></a></p>
 
-**[ehsanyaqoob.com](https://ehsanyaqoob.com)** · [LinkedIn](https://www.linkedin.com/in/ehsany) · [X](https://x.com/iamehsanyaqoob) · ehsanyaqoob07@gmail.com
+<img src="assets/skills.svg" width="100%" alt="Languages and tools. iOS: Swift, SwiftUI, UIKit, SwiftData, Core Data, Swift Concurrency, Combine, WidgetKit, Live Activities, App Intents, Core Location, Notifications, XCTest, Instruments. Flutter: Dart, Flutter, custom widgets, animations, Riverpod, Bloc, GetX, Provider, Hive, platform channels, ML Kit, Google Maps, unit and widget tests. Architecture: Clean Architecture, MVVM, offline-first sync, design systems. Backend: Supabase, Firebase, Cloud Messaging, REST APIs. Release and CI/CD: Fastlane, GitHub Actions, Shorebird, App Store Connect, TestFlight, Play Console. Tools: Xcode, Android Studio, VS Code, Git, Figma, Postman.">
 
-## Apps
+<img src="assets/projects.svg" width="100%" alt="Latest projects">
 
-| App | What it does | Built with | Status |
-| --- | --- | --- | --- |
-| **Tally** | Log an expense by tapping the back of your iPhone, without opening the app | Swift, SwiftUI, SwiftData, App Intents, WidgetKit | [App Store](https://apps.apple.com/us/app/tally-log-expense/id6814942383) |
-| **Niyyah** | Daily prayer tracker with GPS-based prayer times, streaks, and a Qibla compass | Swift, SwiftUI, SwiftData, Supabase | [App Store](https://apps.apple.com/us/app/niyyah-daily-prayer-tracker/id6780566802) |
-| **Mizan** | Finance ledger for Pakistani freelancers, with PKR/USD conversion and FBR tax calculation | Flutter, Riverpod, Hive, Supabase | [App Store](https://apps.apple.com/us/app/mizan-freelancer-ledger/id6780952991) · [Play Store](https://play.google.com/store/apps/details?id=com.mizanapp.freelancer) |
-| **Digital Sergeant** | E-Challan system for Islamabad Traffic Police, with on-device license plate scanning | Flutter, GetX, ML Kit OCR, Firebase | In production · [Showcase](https://github.com/ehsanyaqoob/Digital-Sergeant-Showcase) |
-| **Padel App** | Real-time court booking for padel clubs and players | Flutter, Provider, Google Maps, Laravel API, Next.js | In development · [Showcase](https://github.com/ehsanyaqoob/Padel---Showcase) |
+<p><a href="https://apps.apple.com/us/app/tally-log-expense/id6814942383"><img src="assets/project-tally.svg" width="49.8%" alt="Tally, iOS, live on the App Store. Log an expense by tapping the back of your iPhone."></a><a href="https://apps.apple.com/us/app/niyyah-daily-prayer-tracker/id6780566802"><img src="assets/project-niyyah.svg" width="49.8%" alt="Niyyah, iOS, live on the App Store. Prayer tracker with GPS-based times, streaks, and a Qibla compass."></a></p>
 
-Tally, Niyyah, and Mizan are solo projects, from design to store release. I'm the sole mobile developer on Digital Sergeant.
-
-## Experience
-
-- **Mobile Developer (iOS & Flutter)**, National Police Foundation · Apr 2024 – Present
-- **Flutter Developer Intern**, Logixsy Tech · Jul 2023 – Sep 2023
-
-## Stack
-
-- **iOS:** Swift, SwiftUI, UIKit, SwiftData, Core Data, Swift Concurrency, Combine, WidgetKit, Live Activities, App Intents
-- **Flutter:** Dart, Riverpod, Bloc, GetX, Provider, Hive, ML Kit, Platform channels
-- **Backend:** Supabase, Firebase, Cloud Messaging, REST APIs
-- **Release:** Fastlane, GitHub Actions, Shorebird, App Store Connect, TestFlight, Play Console
-
-## Code
-
-Most of my work is in private repositories, including government work and my own store apps. Public code: [funica](https://github.com/ehsanyaqoob/funica) (Flutter UI kit) and [SPA](https://github.com/ehsanyaqoob/SPA) (my portfolio site).
-
-Open to full-time roles and freelance projects.
+<p><a href="https://apps.apple.com/us/app/mizan-freelancer-ledger/id6780952991"><img src="assets/project-mizan.svg" width="49.8%" alt="Mizan, Flutter, live on the App Store. Income, FBR tax, and PDF invoices for freelancers in Pakistan."></a><a href="https://github.com/ehsanyaqoob/Digital-Sergeant-Showcase"><img src="assets/project-dsa.svg" width="49.8%" alt="Digital Sergeant, Flutter, in production. E-Challan system for Islamabad Traffic Police, with plate scanning."></a></p>

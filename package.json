@@ -1,0 +1,11 @@
+{
+  "name": "profile-panels",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "draw": "node scripts/draw.mjs"
+  },
+  "dependencies": {
+    "opentype.js": "1.3.4"
+  }
+}
