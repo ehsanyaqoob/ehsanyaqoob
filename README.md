@@ -36,10 +36,20 @@ I build native iPhone apps with Swift and SwiftUI, and use Flutter when a produc
 
 Swift, SwiftUI, SwiftData, App Intents, WidgetKit, ActivityKit
 
+<!-- app:start -->
+
+Version 1.0 on the App Store · Updated 22 October 2026
+
+<!-- app:end -->
+
 ### Commits
 
-| Since 2022 | Last 12 months | 2026 so far |
-| --- | --- | --- |
-| 882 | 359 | 340 |
+<!-- stats:start -->
 
-<sub>Contributions as of November 2026, private repositories included.</sub>
+| Since 2022 | Last 12 months | 2026 so far | Active days |
+| --- | --- | --- | --- |
+| 883 | 360 | 341 | 137 |
+
+<sub>Contributions as of November 2026, private repositories included. Updated daily from GitHub.</sub>
+
+<!-- stats:end -->
