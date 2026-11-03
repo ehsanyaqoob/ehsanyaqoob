@@ -1,104 +1,37 @@
-# Hello, I'm Ehsan Yaqoob 👋
+# Ehsan Yaqoob
 
-**Mobile Developer (iOS & Flutter)** based in Islamabad, Pakistan.
-2+ years designing, developing, and deploying production mobile 
-applications - from government-grade enforcement systems to 
-independently shipped consumer products on the App Store and 
-Play Store.
+**Mobile Developer (iOS & Flutter)** · Islamabad, Pakistan
 
----
+3+ years shipping production apps across native iOS and Flutter. Three are live on the App Store, and one is used by 500+ traffic police officers.
 
-### 👨‍💻 About Me
+**[ehsanyaqoob.com](https://ehsanyaqoob.com)** · [LinkedIn](https://www.linkedin.com/in/ehsany) · [X](https://x.com/iamehsanyaqoob) · ehsanyaqoob07@gmail.com
 
-I build mobile apps that ship. My work spans the full lifecycle - 
-architecture decisions on day one, clean state management, 
-offline-first data systems, CI/CD pipelines, and App Store and 
-Play Store deployments.
+## Apps
 
-Flutter and Dart are my primary production stack with 3+ years 
-of real-world delivery. Over the past year I've gone deep into 
-native iOS - Swift, SwiftUI, and SwiftData - and have 
-independently shipped production apps on both platforms.
+| App | What it does | Built with | Status |
+| --- | --- | --- | --- |
+| **Tally** | Log an expense by tapping the back of your iPhone, without opening the app | Swift, SwiftUI, SwiftData, App Intents, WidgetKit | [App Store](https://apps.apple.com/us/app/tally-log-expense/id6814942383) |
+| **Niyyah** | Daily prayer tracker with GPS-based prayer times, streaks, and a Qibla compass | Swift, SwiftUI, SwiftData, Supabase | [App Store](https://apps.apple.com/us/app/niyyah-daily-prayer-tracker/id6780566802) |
+| **Mizan** | Finance ledger for Pakistani freelancers, with PKR/USD conversion and FBR tax calculation | Flutter, Riverpod, Hive, Supabase | [App Store](https://apps.apple.com/us/app/mizan-freelancer-ledger/id6780952991) · [Play Store](https://play.google.com/store/apps/details?id=com.mizanapp.freelancer) |
+| **Digital Sergeant** | E-Challan system for Islamabad Traffic Police, with on-device license plate scanning | Flutter, GetX, ML Kit OCR, Firebase | In production · [Showcase](https://github.com/ehsanyaqoob/Digital-Sergeant-Showcase) |
+| **Padel App** | Real-time court booking for padel clubs and players | Flutter, Provider, Google Maps, Laravel API, Next.js | In development · [Showcase](https://github.com/ehsanyaqoob/Padel---Showcase) |
 
-I care about building things that actually work in the field, 
-not just in demos.
+Tally, Niyyah, and Mizan are solo projects, from design to store release. I'm the sole mobile developer on Digital Sergeant.
 
----
+## Experience
 
-### 💼 Current Role
+- **Mobile Developer (iOS & Flutter)**, National Police Foundation · Apr 2024 – Present
+- **Flutter Developer Intern**, Logixsy Tech · Jul 2023 – Sep 2023
 
-**Mobile Developer (iOS & Flutter)**
-National Police Foundation - Islamabad, Pakistan
+## Stack
 
-Maintaining and deploying the Digital Sergeant E-Challan system 
-for Islamabad Traffic Police - ML Kit OCR for real-time license 
-plate scanning, REST API integration, Shorebird OTA updates for 
-direct-to-device deployments, and GitHub Actions CI/CD pipeline.
+- **iOS:** Swift, SwiftUI, UIKit, SwiftData, Core Data, Swift Concurrency, Combine, WidgetKit, Live Activities, App Intents
+- **Flutter:** Dart, Riverpod, Bloc, GetX, Provider, Hive, ML Kit, Platform channels
+- **Backend:** Supabase, Firebase, Cloud Messaging, REST APIs
+- **Release:** Fastlane, GitHub Actions, Shorebird, App Store Connect, TestFlight, Play Console
 
----
+## Code
 
-### 🛠 Tech Stack
+Most of my work is in private repositories, including government work and my own store apps. Public code: [funica](https://github.com/ehsanyaqoob/funica) (Flutter UI kit) and [SPA](https://github.com/ehsanyaqoob/SPA) (my portfolio site).
 
-**Mobile Development**
-Flutter - Dart - Swift - SwiftUI - SwiftData
-
-**State Management**
-Riverpod - Bloc - GetX - Provider
-
-**Backend & Data**
-Supabase - Firebase - Hive - REST APIs
-
-**DevOps & Tools**
-Fastlane - GitHub Actions - Shorebird - Xcode - Git - Postman
-
----
-
-### 📱 Shipped Products
-
-**Niyyah** — Native iOS Daily Salah Tracker
-Swift, SwiftUI, SwiftData, Supabase, Adhan Swift
-GPS-based prayer times, streak tracking, monthly heatmap, 
-offline-first with Supabase cloud sync.
-→ [App Store](https://apps.apple.com/us/app/niyyah-daily-prayer-tracker/id6780566802)
-
-**Mizan** — Freelancer Finance Tracker
-Flutter, Riverpod, Hive, Supabase
-PKR/USD conversion, FBR tax calculation, PDF export, 
-offline-first with Supabase sync. Built for Pakistani freelancers.
-→ [App Store](https://apps.apple.com/us/app/mizan-freelancer-ledger/id6780952991)
-
-**Digital Sergeant** — Government E-Challan Enforcement System
-Flutter, GetX, ML Kit OCR, Firebase, REST APIs
-Real-time license plate scanning, live violation reporting, 
-deployed to 500+ Islamabad Traffic Police officers in production.
-→ [Showcase](https://github.com/ehsanyaqoob/Digital-Sergeant-Showcase)
-
----
-
-### 🔧 Currently Building
-
-**Padel App** — Real-time court booking platform
-Flutter, Provider, Google Maps, Custom Backend
-Slot availability, in-app payments, role-based club owner dashboard.
-→ [Showcase](https://github.com/ehsanyaqoob/Padel---Showcase)
-
-
----
-
-### 🎯 2026 Goal
-
-Becoming a full-stack iOS developer. Niyyah and Mizan were the 
-first proof points — independently designed, built, and shipped 
-to the App Store end-to-end.
-
----
-
-📍 Islamabad, Pakistan
-📧 ehsanyaqoob07@gmail.com
-🔗 [Portfolio](https://ehsanyaqoob.vercel.app) — 
-[LinkedIn](https://www.linkedin.com/in/ehsany/) — 
-[X](https://x.com/iamehsanyaqoob)
-
----
-
-⭐ Open to Flutter and iOS opportunities — Pakistan or remote. Always happy to connect.
+Open to full-time roles and freelance projects.
