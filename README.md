@@ -38,7 +38,7 @@ Swift, SwiftUI, SwiftData, App Intents, WidgetKit, ActivityKit
 
 <!-- app:start -->
 
-Version 1.0 on the App Store · Updated 22 October 2026
+Version 1.1.0 on the App Store · Updated 11 November 2026
 
 <!-- app:end -->
 
